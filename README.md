@@ -4,7 +4,9 @@ I'm working on my basics after a long time and I realized I've never done this i
 
 # Planned
 ## Data structures 
-- [ ] asdf
+- [ ] Linked list 
+- [ ] Queue
+- [ ] Deque
 
 ## Algorithms 
 - [ ] Quicksort
