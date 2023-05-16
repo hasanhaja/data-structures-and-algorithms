@@ -9,7 +9,7 @@ I'm working on my basics after a long time and I realized I've never done this i
 - [ ] Deque
 
 ## Algorithms 
-- [ ] Quicksort
+- [x] Quicksort
 - [ ] Binary search
 - [ ] Linear search
 - [ ] Merge sort
